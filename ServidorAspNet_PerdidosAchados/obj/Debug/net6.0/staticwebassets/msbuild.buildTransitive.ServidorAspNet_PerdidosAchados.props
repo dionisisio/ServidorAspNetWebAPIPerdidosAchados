@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ServidorAspNet_PerdidosAchados.props" />
+</Project>

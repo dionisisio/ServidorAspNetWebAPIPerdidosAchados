@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|f:\\8-materia\\programacao\\trabalhar\\servidoraspnet\\servidorasp\\servidorasp\\controllers\\itemperdidoachadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|solutionrelative:servidorasp\\controllers\\itemperdidoachadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|f:\\8-materia\\programacao\\trabalhar\\servidoraspnet\\servidorasp\\servidorasp\\codigo\\itemperdidoachadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|solutionrelative:servidorasp\\codigo\\itemperdidoachadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|f:\\8-materia\\programacao\\trabalhar\\servidoraspnet\\servidorasp\\servidorasp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|solutionrelative:servidorasp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|f:\\8-materia\\programacao\\trabalhar\\servidoraspnet\\servidorasp\\servidorasp\\codigo\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|solutionrelative:servidorasp\\codigo\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|f:\\8-materia\\programacao\\trabalhar\\servidoraspnet\\servidorasp\\servidorasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|solutionrelative:servidorasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|f:\\8-materia\\programacao\\trabalhar\\servidoraspnet\\servidorasp\\servidorasp\\codigo\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5925BABC-D4BF-464E-B424-3D2176FB087E}|ServidorAsp\\ServidorAsp.csproj|solutionrelative:servidorasp\\codigo\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServidorAsp\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 429,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemPerdidoAchadoController.cs",
+              "DocumentMoniker": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Controllers\\ItemPerdidoAchadoController.cs",
+              "RelativeDocumentMoniker": "ServidorAsp\\Controllers\\ItemPerdidoAchadoController.cs",
+              "ToolTip": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Controllers\\ItemPerdidoAchadoController.cs",
+              "RelativeToolTip": "ServidorAsp\\Controllers\\ItemPerdidoAchadoController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAADgv4IAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:02:33.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemPerdidoAchadoDTO.cs",
+              "DocumentMoniker": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Codigo\\ItemPerdidoAchadoDTO.cs",
+              "RelativeDocumentMoniker": "ServidorAsp\\Codigo\\ItemPerdidoAchadoDTO.cs",
+              "ToolTip": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Codigo\\ItemPerdidoAchadoDTO.cs",
+              "RelativeToolTip": "ServidorAsp\\Codigo\\ItemPerdidoAchadoDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:54:57.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Program.cs",
+              "RelativeDocumentMoniker": "ServidorAsp\\Program.cs",
+              "ToolTip": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Program.cs",
+              "RelativeToolTip": "ServidorAsp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:43:18.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Codigo\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "ServidorAsp\\Codigo\\UsuarioDTO.cs",
+              "ToolTip": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Codigo\\UsuarioDTO.cs",
+              "RelativeToolTip": "ServidorAsp\\Codigo\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:40:55.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ServidorAsp\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ServidorAsp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwDsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:54:02.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Codigo\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ServidorAsp\\Codigo\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Codigo\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ServidorAsp\\Codigo\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:17:23.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ServidorAsp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\8-Materia\\Programacao\\Trabalhar\\ServidorAspNet\\ServidorAsp\\ServidorAsp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ServidorAsp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:07:17.7Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 109,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
